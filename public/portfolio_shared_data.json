@@ -1,0 +1,63 @@
+{
+  "basic_info": {
+    "name": "Song suho",
+    "titles": ["Front-end Developer", "Mobile App Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/kasumil",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "ReactJS",
+        "class": "devicon-react-plain",
+        "level": "65"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "Php",
+        "class": "devicon-php-plain",
+        "level": "65"
+      },
+      {
+        "name": "CodeIgniter",
+        "class": "devicon-codeigniter-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

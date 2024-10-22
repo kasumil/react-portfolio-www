@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "description_header": "안녕하세요",
+    "description": "👋 개발자 송수호입니다.\n저는 웹 개발 분야에 3년차가 된 노련한 React 개발자로서 제 자신을 소개하게 되어 매우 기쁩니다.\n저는 기술적 전문성을 넘어 협업과 지속적인 학습에 높은 가치를 둡니다.\n회사에서 근무하다보니, NFT, TradingView, LG TV App 등 많은 것을 개발하고 구축하였습니다.\n해당 내용으로 인해 기획, 디자이너, 백엔드 개발자와 협의 하는 방법을 배웠으며, 소통하고 질의하여 프로젝트를 진행하는 방법을 배웠습니다.\n업계의 뒤처지지 않도록 항상 기술을 향상 시킬 수 있도록 배움에대한 갈망이 있습니다.\n저는 업계 동향의 최전선에 머물면서 기술을 향상하고 팀과 고객에게 더 큰 가치를 제공하기 위해 새로운 도구와 방법론을 열심히 탐구하는 데 최선을 다하고 있습니다.\n요약하자면, React 생태계에서 또 한 해의 성장과 탐구를 시작하면서 동료 개발자들과 연결하고 통찰력을 공유하며 끊임없이 진화하는 웹 개발 환경에 기여하게 되어 기쁩니다.\n함께 놀라운 것을 만들어 봅시다!  💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "쇼핑몰 유지보수",
+      "startDate": "2024",
+      "description": "SI 외주사업으로 쇼핑몰 유지보수를 진행하였습니다.",
+      "images": ["images/portfolio/shoppingmall/p1.png", "images/portfolio/shoppingmall/p2.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Dailyartstory OTT TV App",
+      "startDate": "2022~2023",
+      "description": "LG TV App(Version 1) 개발참여하였습니다.\nOTT Admin 개발(version1, version2)에서 컨텐츠 업로드, 수정, 삭제 시스템을 구축하였습니다.",
+      "images": ["images/portfolio/ott_app/p1.png", "images/portfolio/ott_app/p2.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "다날 결제시스템 구축",
+      "startDate": "2022",
+      "description": "OTT 앱에서 사용되는 다날 결제 시스템 기술검토 및 결제에 필요한 초기세팅을 진행하였습니다.\n또한 사내 시스템에 맞도록 사이트를 세팅하여 구축하였습니다",
+      "images": ["images/portfolio/danal/p1.png"],
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "다스버스 회사 소개 사이트",
+      "startDate": "2022",
+      "description": "사내 사이트 개발 및 유지 보수 진행",
+      "images": ["images/portfolio/adventure/p1.png", "images/portfolio/adventure/p2.png"],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "트레이딩 엔진 백테스트",
+      "startDate": "2021",
+      "description": "트레이딩 시스템을 위한 트레이딩 엔진의 모의투자를 진행한 후,\n해당 내용의 결과를 알기위해서 Tradingview 라이브러리를 이용한 판매이력 / 구매이력을 확인하는 시스템을 구축하였습니다.",
+      "images": ["images/portfolio/photography/tradingview.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "다스플레이스",
+      "startDate": "2021",
+      "description": "아트와 NFT 그리고 메타버스를 통해 즐긴다는 모토하에 만들어진 NFT를 판매하기 위해 만들어진 NFT 마켓 플랫폼입니다.\n구매/판매 등 메타마스크와 연동되어 상품을 구매하고 판매할 수 있습니다.",
+      "images": ["images/portfolio/animal-shelter/p1.png", "images/portfolio/animal-shelter/p2.png"],
+      "technologies": [
+        {
+          "class": "devicon-codeigniter-plain",
+          "name": "CodeIgniter"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DASVERSE",
+      "title": "Front-End Developer",
+      "years": "03.2021 - 04.2024",
+      "mainTech": ["React"],
+      "technologies": ["REST API", "ReactJS", "JavaScript", "Bootstrap", "PHP", "CodeIgniter", "React Native"]
+    },
+    {
+      "company": "ANSER",
+      "title": "Intern",
+      "years": "08.20-09.20",
+      "mainTech": ["React"],
+      "technologies": ["RxJS", "JavaScript", "REST API"]
+    },
+    {
+      "company": "위코드 10기",
+      "title": "프론트엔드 개발자",
+      "years": "06.20-07.20",
+      "mainTech": ["React"],
+      "technologies": ["RxJS", "JavaScript", "REST API"]
+    }
+  ]
+}
